@@ -1,0 +1,10 @@
+{
+    "error": {
+        "system_error": "エラーが発生しました"
+    },
+    "first_name_form": {
+        "title": "苗字",
+        "error_message": "苗字を入力してください。"
+    }
+      
+}

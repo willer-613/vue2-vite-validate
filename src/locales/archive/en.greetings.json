@@ -1,0 +1,8 @@
+{
+    "greeting": {
+        "sayhi": "hello"
+    },
+    "error": {
+        "delete_error": "this is error"
+    }      
+}
